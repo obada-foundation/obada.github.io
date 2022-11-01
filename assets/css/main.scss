@@ -1,0 +1,247 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+$background-color           : #0f131e;
+$secondary-background-color : #202536;
+$text-color                 : #8f98b9;
+$secondary-text-color       : #fff6fb;
+$footer-background-color    : #202536;
+$intro-transition           : none;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/*
+  Theme overrides
+ */
+
+html {
+  @media (min-width: 64em) {
+    font-size: 19px;
+  }
+
+  @media (min-width: 80em) {
+    font-size: 19px;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $secondary-text-color;
+
+  span {
+    color: $primary-color;
+  }
+
+  & + .block {
+    margin-top: calc(0.5em + 15px);
+  }
+}
+
+.main-content {
+  a {
+    white-space: normal;
+  }
+}
+
+.page__content {
+  h2 {
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+}
+
+.page__footer {
+  a {
+    color: $primary-color;
+  }
+}
+
+.greedy-nav {
+  a {
+    color: $secondary-text-color;
+
+    &.site-title {
+      max-width: 200px;
+      line-height: 1.2;
+      font-weight: normal;
+      font-style: italic;
+      font-size: 0.8em;
+      color: $text-color;
+      //color: #7186d3;
+    }
+
+    &.site-logo {
+      margin-right: 1em;
+    }
+  }
+
+  .visible-links {
+    a {
+      &::before {
+        content: none;
+      }
+
+      &:hover {
+        color: $primary-color;
+      }
+    }
+  }
+}
+
+.site-logo {
+  img {
+    width: 7.9rem;
+    height: 2.5rem;
+    max-height: 2.5rem;
+  }
+}
+
+/*
+  Blocks
+ */
+
+.block {
+  padding: 5%;
+  border-radius: 30px;
+  background-color: $secondary-background-color;
+
+  &__image {
+    margin-bottom: 1em;
+    max-width: 60px;
+
+    @media (min-width: 600px) {
+      max-width: 80px;
+    }
+  }
+
+  &__image + h3 {
+    margin-top: 0;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  p {
+    font-size: 0.9em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.blocks-2,
+.blocks-3 {
+  @media (min-width: 600px) {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+
+  .block {
+    margin: 15px 0;
+
+    @media (min-width: 600px) {
+      margin: 15px;
+    }
+  }
+}
+
+.blocks-2 {
+  .block {
+    @media (min-width: 600px) {
+      width: calc(50% - 30px);
+    }
+  }
+}
+
+.blocks-3 {
+  .block {
+    @media (min-width: 600px) {
+      width: calc(50% - 30px);
+    }
+
+    @media (min-width: 768px) {
+      width: calc(33.33% - 30px);
+    }
+  }
+}
+
+.block-text-image {
+  @media (min-width: 768px) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__image {
+    margin-top: 0;
+    margin-bottom: 1em;
+
+    @media (min-width: 768px) {
+      width: 340px;
+      margin-bottom: 0;
+    }
+  }
+
+  &__text {
+    @media (min-width: 768px) {
+      width: calc(100% - 340px);
+    }
+  }
+}
+
+.image-title {
+  font-style: italic;
+  font-size: 1.4em;
+
+  span {
+    display: inline-block;
+    margin-left: 0.5em;
+    background: linear-gradient(45deg, #28e9ff, #f21368);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+  }
+}
+
+.block-warning {
+  color: #ffcb00;
+
+  @media (min-width: 1200px) {
+    text-align: center;
+  }
+
+  img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+    @media (min-width: 1200px) {
+      display: inline-block;
+      float: none;
+      margin-bottom: 0;
+    }
+  }
+
+  p {
+    display: inline-block;
+    background: linear-gradient(45deg, #ffcb00, #ff7600);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0;
+  }
+}
