@@ -15,7 +15,7 @@ hidden: true
 # Introducing the pNFT Standard
 **Representing physical assets as non-fungible tokens (NFTs).**
 
-[The OBADA Foundation](https://www.obadafoundation.org/about) is a 501c(3) nonprofit working with ISO ([ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) to develop an open standard for creating digital representations of real-world assets. 
+[The OBADA Foundation](https://www.obadafoundation.org/about) is a 501(c)(3) nonprofit working with ISO ([ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) to develop an open standard for creating digital representations of real-world assets. 
 
 The [The OBADA DAO](https://forum.obada.io/) (Decentralized Autonomous Organization) is a coalition of stakeholders in the IT asset disposition (ITAD) {building a decentralized registry](https://github.com/obada-foundation/) to store pNFTs, based on the [pNFT Standard](https://www.obada.io/standard/). 
 
