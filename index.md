@@ -15,7 +15,7 @@ hidden: true
 # Introducing the pNFT Standard
 **Representing physical assets as non-fungible tokens (NFTs).**
 
-[The OBADA Foundation](https://www.obada.io/foundation/about) is a 501c(6) nonprofit working with ISO ([ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) to develop an open standard for creating digital representations of real-world assets. 
+[The OBADA Foundation](https://www.obadafoundation.org/about) is a 501c(6) nonprofit working with ISO ([ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) to develop an open standard for creating digital representations of real-world assets. 
 
 The [The OBADA DAO](https://forum.obada.io/) (Decentralized Autonomous Organization) is a coalition of stakeholders in the IT asset disposition (ITAD) {building a decentralized registry](https://github.com/obada-foundation/) to store pNFTs, based on the [pNFT Standard](https://www.obada.io/standard/). 
 
@@ -24,12 +24,12 @@ The registry creates a public utility where the pNFT becomes a fundamental, inte
 <br>
 
 ## Quick Links
-* [OBADA Meeting Calendar](https://www.obada.io/foundation/calendar)
-* [Meeting Minutes](https://www.obada.io/foundation/meetings/)
-* [the pNFT Standard](https://www.obada.io/standard/)
+* [OBADA Meeting Calendar](https://www.obadafoundation.org/calendar)
+* [Meeting Minutes](https://www.obadafoundation.org/meetings/)
+* [the pNFT Standard](https://www.obadafoundation.org/standard/)
 * [DAO Discussion Forum](https://forum.obada.io/)
-* [DAO Operating Agreement](https://www.obada.io/foundation/dao/dao-operating-agreement/)
-* [OBADA Github](https://www.obada.io/foundation/tech-resources/github.html)
+* [DAO Operating Agreement](https://www.obadafoundation.org/dao/dao-operating-agreement/)
+* [OBADA Github](https://www.obadafoundation.org/tech-resources/github.html)
 * [Demo Site](https://dev.rd.obada.io)
 * [Testnet Blockchain Explorer](http://explorer.alpha.obada.io)
 
