@@ -12,9 +12,8 @@ hidden: true
 </div>
 
 
-# OBADA Announces Round B DAO Membership Waitlist
-# [Read More Here](https://resource-recycling.com/e-scrap/2022/11/09/blockchain-tool-for-itad-trading-comes-closer-to-fruition/)
-## [52 Voting Seats Available - Join Here](https://forms.gle/YE9TJnRYJwrAjx9N8)
+<h1> OBADA Announces Round B DAO Membership Waitlist <br/>
+<a href="https://resource-recycling.com/e-scrap/2022/11/09/blockchain-tool-for-itad-trading-comes-closer-to-fruition/">Read More</a> or <a href="https://forms.gle/YE9TJnRYJwrAjx9N8">Join the Waitlist</a> (Only 52 Seats Available)</h1>
 
 <p><br></p>
 
@@ -38,6 +37,7 @@ The registry creates a public utility where the pNFT becomes a fundamental, inte
 * [OBADA Github](https://www.obadafoundation.org/tech-resources/github.html)
 * [Demo Site](https://dev.rd.obada.io)
 * [Testnet Blockchain Explorer](http://explorer.alpha.obada.io)
+* [FAQ](https://www.obadafoundation.org/marketing/faq)
 
 <br>
 
