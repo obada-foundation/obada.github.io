@@ -12,7 +12,9 @@ hidden: true
 </div>
 
 
-#  OBADA Announces Round B DAO Membership Waitlist - [52 Voting Seats Available (Signup Here)](https://forms.gle/YE9TJnRYJwrAjx9N8)
+# OBADA Announces Round B DAO Membership Waitlist
+# [Read More Here](https://resource-recycling.com/e-scrap/2022/11/09/blockchain-tool-for-itad-trading-comes-closer-to-fruition/)
+## [52 Voting Seats Available - Join Here](https://forms.gle/YE9TJnRYJwrAjx9N8)
 
 <p><br></p>
 
