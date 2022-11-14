@@ -3,12 +3,16 @@ title: NFTs for Physical Assets
 layout: splash
 hidden: true
 ---
+
+
 <p><br></p>
 
 <div class="block-warning">
     <p><img src="/assets/svg/construction-worker.svg" alt="" width="60" height="60"><em>We are a nonprofit organization run by volunteers.  Our website is a work in progress.  If you'd like to improvie it, please volunteer to help.</em></p>
 </div>
 
+
+#  OBADA Announces Round B DAO Membership Waitlist - [52 Voting Seats Available (Signup Here)](https://forms.gle/YE9TJnRYJwrAjx9N8)
 
 <p><br></p>
 
