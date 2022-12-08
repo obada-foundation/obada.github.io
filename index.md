@@ -12,7 +12,7 @@ hidden: true
 </div>
 
 
-<div style="text-align:center;"><h1> OBADA Announces Round B DAO Membership Waitlist <br/>
+<div style="text-align:center;"><h1> LAST CHANCE! OBADA DAO Round B Waitlist Closes Dec 15th <br/>
 <a href="https://resource-recycling.com/e-scrap/2022/11/09/blockchain-tool-for-itad-trading-comes-closer-to-fruition/">Read More</a> or <a href="https://forms.gle/YE9TJnRYJwrAjx9N8">Join the Waitlist</a> (Only 52 Seats Available)</h1></div>
 
 <p><br></p>
