@@ -173,6 +173,5 @@ The standard consists of an open data methods for representing an immutable phys
 * As of May 2022, the OBADA DAO has 23 members.  We will be opening up additional 77 seats (for a total of 100) later this year.  For those interested in joining the waitlist please contact us at bizops @ obada.io.
 
 
-### TO LEARN MORE: [Watch our Explainer Video on Youtube](https://youtu.be/SMoGNI0NB7k)
-<div style="align-content:center;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/SMoGNI0NB7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+
 
