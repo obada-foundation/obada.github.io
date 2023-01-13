@@ -96,7 +96,8 @@ The Repair Association brings businesses big and small from many sectors of the 
 <br/><br/>
 
 ### Unduit
-<!-- Need image that works on white background <img src="https://www.obadafoundation.org/dao/member-logos/unduit-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px"> -->
+<!-- Need image that works on white background -->
+<img src="https://www.obadafoundation.org/dao/member-logos/unduit-logo.png" align="left" vspace="5"  hspace="10" height="140px" width="120px">
 Unduit is a software and services organization that provides asset life cycle management of IT Assets from procurement to end of life of assets for enterprises ranging from small businesses to Fortune 100 companies. Unduit's app based cloud platform that uses technologies such as blockchain to drive value for customers.
 <br/><br/>
 
