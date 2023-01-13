@@ -8,19 +8,24 @@ hidden: true
 <p><br></p>
 
 <div class="block-warning">
-    <p><img src="/assets/svg/construction-worker.svg" alt="" width="60" height="60"><em>We are a nonprofit organization run by volunteers.  Our website is a work in progress.  If you'd like to improve it, please volunteer to help.</em></p>
+    <p><img src="/assets/svg/construction-worker.svg" alt="" width="60" height="60"><em>This website is a work in progress, built by volunteers.  If you'd like to improve it, please volunteer to help!</em></p>
 </div>
 
 <p><br></p>
 
-# Introducing the pNFT Standard
-**Representing physical assets as non-fungible tokens (NFTs).**
+## A Decentralized Autonomous Organization run by an ITAD Industry Coalition
 
-[The OBADA Foundation](https://www.obadafoundation.org/about) is a 501(c)(3) nonprofit working with ISO ([ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) to develop an open standard for creating digital representations of real-world assets. 
+The [The OBADA DAO](https://forum.obada.io/) (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry.
 
-The [The OBADA DAO](https://forum.obada.io/) (Decentralized Autonomous Organization) is a coalition of stakeholders in the IT asset disposition (ITAD) {building a decentralized registry](https://github.com/obada-foundation/) to store pNFTs, based on the [pNFT Standard](https://www.obada.io/standard/). 
 
-The registry creates a public utility where the pNFT becomes a fundamental, interoperable component of supply chain systems and layer 1 blockchains, Anyone can use pNFTs to maintain chain-of-custody over the complete lifecycle of any device, from manufacturer to the recycler.
+## Creating a Decentralized "Carfax(tm) for any Physical Assets 
+The DAO is creating a public utility so anyone can create a Carfax for a physical asset.  This "Carfax" is a digital representation permanently tied to the physical asset,  which will allow the asset to be tracked through it's end-of-life all the way to the recycler.  
+
+Technically, this "Carfax" is a type of non-fungible token (NFT) we call a physical NFT or "pNFT".  The DAO is creating a [decentralized registry](https://github.com/obada-foundation/) to store these pNFTs.
+
+## Based on an Open Standard for Representing Physical Assets as Non-Fungible Tokens (NFTs).
+[The OBADA Foundation](https://www.obadafoundation.org/about) is a 501(c)(3) nonprofit working with ISO ([ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) to develop an open standard for creating digital representations of real-world assets. The DAO is building the decentralized registry according to the [pNFT Standard](https://www.obada.io/standard/) being developed by the Foundation. 
+
 
 <br>
 
