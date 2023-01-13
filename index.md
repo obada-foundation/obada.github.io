@@ -13,15 +13,25 @@ hidden: true
 
 <p><br></p>
 
-## A Decentralized Autonomous Organization run by an ITAD Industry Coalition
+## The OBADA DAO: A Decentralized Autonomous Organization run by an ITAD Industry Coalition
 
 The [The OBADA DAO](https://forum.obada.io/) (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. 
 * [DAO Discussion Forum](https://forum.obada.io/)
+* [DAO Member List](/dao-members/) (currently 25)
+* [DAO Waitlist](/dao-waitlist/) (currently 73)
+
+## Why ITADs and other companies in the sector join the DAO
+The DAO is limited to 100 Seats, for companies in the IT Asset Disposition Sector Only.  There is a one time membership fee of $5000 which is being used to fund development of the blockchain and operations of the foundation.
+Besides a seat at the table in the future of our industry, the main benefits of joining the DAO are governance rights, operational rights, and economic rights.
+* [Read the Waitlist Announcement](TBD)
 * [DAO Operating Agreement](https://www.obadafoundation.org/dao/dao-operating-agreement/)
+*  **[Join the DAO](tbd)**
 
+What does the DAO do?
 
-## The Product:  A Decentralized Registry to Store the Carfaxes
-THe DAO is creating a public utility to allow anyone to create a "Carfax™" for their physical assets.  This will allow enterprise and supply chain systems to track the service history of any asset from manufacturer the recycler, and will enable the world to order and track the results of asset disposition services in a simple standard way.
+## The Product:  A Decentralized Registry to Store these "Carfaxes" of Physical Assets
+The OBADA DAO is creating a public utility to allow anyone to create a "Carfax™" for their physical assets.  
+This will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recycler. and it creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
 
 This decentralized "Carfax" is a digital representation of physical asset, a type of non-fungible token (NFT) called a physical NFT (pNFT).  The DAO is creating a [decentralized registry](https://github.com/obada-foundation/) to store these pNFT.
 * [Github Source Code Repo](https://www.obadafoundation.org/tech-resources/github.html)
@@ -32,6 +42,7 @@ This decentralized "Carfax" is a digital representation of physical asset, a typ
 This decentralized registry is being built according to [an open standard](https://www.obada.io/standard/) being developed
  by [the OBADA Foundation](https://www.obadafoundation.org/about), a 501(c)(3) nonprofit, and the International Standards Organization [ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) as a standard called "Representing physical assets using non-fungible tokens (NFTs)."
  
+
 ## Quick Links
 * **[Frequently Asked Questions](https://www.obadafoundation.org/marketing/faq)**
 	* Are a good writer?  Please help us improve these.
