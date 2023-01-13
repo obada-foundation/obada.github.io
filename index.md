@@ -15,32 +15,40 @@ hidden: true
 
 ## A Decentralized Autonomous Organization run by an ITAD Industry Coalition
 
-The [The OBADA DAO](https://forum.obada.io/) (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry.
-
-
-## Creating a Decentralized "Carfax(tm) for any Physical Assets 
-The DAO is creating a public utility so anyone can create a Carfax for a physical asset.  This "Carfax" is a digital representation permanently tied to the physical asset,  which will allow the asset to be tracked through it's end-of-life all the way to the recycler.  
-
-Technically, this "Carfax" is a type of non-fungible token (NFT) we call a physical NFT or "pNFT".  The DAO is creating a [decentralized registry](https://github.com/obada-foundation/) to store these pNFTs.
-
-## Based on an Open Standard for Representing Physical Assets as Non-Fungible Tokens (NFTs).
-[The OBADA Foundation](https://www.obadafoundation.org/about) is a 501(c)(3) nonprofit working with ISO ([ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) to develop an open standard for creating digital representations of real-world assets. The DAO is building the decentralized registry according to the [pNFT Standard](https://www.obada.io/standard/) being developed by the Foundation. 
-
-
-<br>
-
-## Quick Links
-* [OBADA Meeting Calendar](https://www.obadafoundation.org/calendar)
-* [Meeting Minutes](https://www.obadafoundation.org/meetings/)
-* [the pNFT Standard](https://www.obadafoundation.org/standard/)
+The [The OBADA DAO](https://forum.obada.io/) (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. 
 * [DAO Discussion Forum](https://forum.obada.io/)
 * [DAO Operating Agreement](https://www.obadafoundation.org/dao/dao-operating-agreement/)
-* [OBADA Github](https://www.obadafoundation.org/tech-resources/github.html)
-* [Demo Site](https://dev.rd.obada.io)
-* [Testnet Blockchain Explorer](http://explorer.alpha.obada.io)
-* [FAQ](https://www.obadafoundation.org/marketing/faq)
 
-<br>
+
+## The Product:  A Decentralized Registry to Store the Carfaxes
+THe DAO is creating a public utility to allow anyone to create a "Carfax™" for their physical assets.  This will allow enterprise and supply chain systems to track the service history of any asset from manufacturer the recycler, and will enable the world to order and track the results of asset disposition services in a simple standard way.
+
+This decentralized "Carfax" is a digital representation of physical asset, a type of non-fungible token (NFT) called a physical NFT (pNFT).  The DAO is creating a [decentralized registry](https://github.com/obada-foundation/) to store these pNFT.
+* [Github Source Code Repo](https://www.obadafoundation.org/tech-resources/github.html)
+* [Reference Design / Demo Site](https://dev.rd.obada.io)
+* [Blockchain Explorer](http://explorer.alpha.obada.io)
+
+## Based on an Open Standard for Representing Physical Assets as Non-Fungible Tokens (NFTs).
+This decentralized registry is being built according to [an open standard](https://www.obada.io/standard/) being developed
+ by [the OBADA Foundation](https://www.obadafoundation.org/about), a 501(c)(3) nonprofit, and the International Standards Organization [ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) as a standard called "Representing physical assets using non-fungible tokens (NFTs)."
+ 
+## Quick Links
+* **[Frequently Asked Questions](https://www.obadafoundation.org/marketing/faq)**
+	* Are a good writer?  Please help us improve these.
+* [OBADA Meeting Calendar](https://www.obadafoundation.org/calendar)
+* [Past Meeting Minutes](https://www.obadafoundation.org/meetings/)
+
+
+## Jan 2022 - News & Important Announcements
+* Jan 2022 update: The DAO currently has 25 members and with a waitlist of 70 to join.  We are currently processing the waitlist.
+* [DAO Member List](tbd) (currently 25 DAO Members)
+* [DAO Waitlist](tbd) (currently 73 companies)
+* [Join the DAO Waitlist](tbd)
+* [DAO Membership Application](tbd)
+
+## The rest of this page is in progress - intent is to become a high-level explainer
+* Did we mention we are looking for help?
+* Facts and operational information can be found on the [OBADA Foundation Documentation Site](https://www.obadafoundation.org/).
 
 <div class="blocks-3">
 
@@ -172,10 +180,9 @@ The standard consists of an open data methods for representing an immutable phys
 
 
 ### LEGAL
-* There is no offer for investment here. OBADA is not an investment.
-* At this time there are no plans to offer the native utility token to the general public or on any public token exchange.   
-* At this time, OBADA is a permissioned industry-led project targetted at the asset disposition sector.
-* As of May 2022, the OBADA DAO has 23 members.  We will be opening up additional 77 seats (for a total of 100) later this year.  For those interested in joining the waitlist please contact us at bizops @ obada.io.
+* There is no offer for investment here. OBADA DAO membership is not an investment.
+* A decentralzied ledger keeping track of "system credits" is necessary to coordinate the activity and system functions between nodes operated by the DAO members.  While this ledger could be described in terms of a utility token, at this time there are no plans to offer any native token to the general public nor on any public token exchange. 
+* Contact us at bizops @ obada.io.
 
 
 
