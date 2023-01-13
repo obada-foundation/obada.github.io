@@ -15,26 +15,18 @@ hidden: true
 
 ## The OBADA DAO: A Decentralized Autonomous Organization run by an ITAD Industry Coalition
 
-The [The OBADA DAO](https://forum.obada.io/) (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. 
+The OBADA DAO (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry.  
 * [DAO Discussion Forum](https://forum.obada.io/)
-* [DAO Member List](/dao-members/) (currently 25)
-* [DAO Waitlist](/dao-waitlist/) (currently 73)
+* [DAO Member List](https://www.obadafoundation.org/dao/members/)
+* [DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/)
 
-## Why ITADs and other companies in the sector join the DAO
-The DAO is limited to 100 Seats, for companies in the IT Asset Disposition Sector Only.  There is a one time membership fee of $5000 which is being used to fund development of the blockchain and operations of the foundation.
-Besides a seat at the table in the future of our industry, the main benefits of joining the DAO are governance rights, operational rights, and economic rights.
-* [Read the Waitlist Announcement](TBD)
-* [DAO Operating Agreement](https://www.obadafoundation.org/dao/dao-operating-agreement/)
-*  **[Join the DAO](tbd)**
-
-What does the DAO do?
 
 ## The Product:  A Decentralized Registry to Store these "Carfaxes" of Physical Assets
 The OBADA DAO is creating a public utility to allow anyone to create a "Carfax™" for their physical assets.  
 This will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recycler. and it creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
 
-This decentralized "Carfax" is a digital representation of physical asset, a type of non-fungible token (NFT) called a physical NFT (pNFT).  The DAO is creating a [decentralized registry](https://github.com/obada-foundation/) to store these pNFT.
-* [Github Source Code Repo](https://www.obadafoundation.org/tech-resources/github.html)
+This decentralized "Carfax" is a digital representation of physical asset, a type of non-fungible token (NFT) called a physical NFT (pNFT).  The DAO is creating a decentralized registry to store these pNFTs.
+* [Github Source Code Repo](https://www.obadafoundation.org/tech-resources/github.html](https://github.com/obada-foundation/)
 * [Reference Design / Demo Site](https://dev.rd.obada.io)
 * [Blockchain Explorer](http://explorer.alpha.obada.io)
 
@@ -42,20 +34,22 @@ This decentralized "Carfax" is a digital representation of physical asset, a typ
 This decentralized registry is being built according to [an open standard](https://www.obada.io/standard/) being developed
  by [the OBADA Foundation](https://www.obadafoundation.org/about), a 501(c)(3) nonprofit, and the International Standards Organization [ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) as a standard called "Representing physical assets using non-fungible tokens (NFTs)."
  
-
+## Why ITADs and other companies in the sector join the DAO
+The DAO is limited to 100 Seats, for companies in the IT Asset Disposition Sector Only.  There is a one time membership fee of $5000 which is being used to fund development of the blockchain and operations of the foundation.
+Besides a seat at the table in the future of our industry, the main benefits of joining the DAO are governance rights, operational rights, and economic rights.
+* [Read the Waitlist Announcement](TBD)
+* [DAO Operating Agreement](https://www.obadafoundation.org/dao/dao-operating-agreement/)
+*  **[Join the DAO](tbd)**
+*  
 ## Quick Links
 * **[Frequently Asked Questions](https://www.obadafoundation.org/marketing/faq)**
 	* Are a good writer?  Please help us improve these.
 * [OBADA Meeting Calendar](https://www.obadafoundation.org/calendar)
 * [Past Meeting Minutes](https://www.obadafoundation.org/meetings/)
-
-
-## Jan 2022 - News & Important Announcements
-* Jan 2022 update: The DAO currently has 25 members and with a waitlist of 70 to join.  We are currently processing the waitlist.
-* [DAO Member List](tbd) (currently 25 DAO Members)
-* [DAO Waitlist](tbd) (currently 73 companies)
-* [Join the DAO Waitlist](tbd)
 * [DAO Membership Application](tbd)
+* [Join the DAO Waitlist](tbd)
+
+<hr>
 
 ## The rest of this page is in progress - intent is to become a high-level explainer
 * Did we mention we are looking for help?
