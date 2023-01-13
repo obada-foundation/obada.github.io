@@ -1,8 +1,6 @@
 --- 
 title: DAO Members
-parent: Marketing
-permalink: /dao/members/
-nav_order: 2
+permalink: /dao-members/
 ---
 ## Current OBADA DAO Members
 
