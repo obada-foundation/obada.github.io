@@ -1,6 +1,6 @@
 ---
-title: DAO Waitlist Instructions
-permalink: /dao-waitlist-instructions/
+title: DAO Waitlist Procesing Instructions
+permalink: /dao-waitlist-processing-instructions/
 ---
 
 # Waitlist Processing Instructions
@@ -9,9 +9,9 @@ Thank you for your interest in being an OBADA DAO member.  We have finalized the
  
 ### 1. DOCUMENTS
 There are three DAO-related administrative documents  that need to be executed by you.:
-  * OBADA DAO, LLC Accredited Investor Questionnaire 
-  * OBADA DAO, LLC Membership Agreement
-  * OBADA DAO, LLC Operating Agreement
+  * [OBADA DAO, LLC Operating Agreement](TBD)
+  * [OBADA DAO, LLC Membership Agreement](TBD)
+  * [OBADA DAO, LLC Accredited Investor Questionnaire](TBD) 
  
 And there are two tax-related documents (please fill out and return the one that is applicable to you).
   * USA ONLY: W-9 tax form https://www.irs.gov/pub/irs-pdf/fw9.pdf 
@@ -24,11 +24,11 @@ Please review, fill in and sign your portion of each document and return to bizo
  
 ### 3. PAYMENT
 
-Pay your $5015 ($5000 membership fee +$15 for bank charges) to OBADA DAO, LLC.  
+Pay your $5,015.00 USD ($5,000.00 membership fee +$15.00 for bank charges) to OBADA DAO, LLC.  
 
 We can only accept wire or ACH payments.  
  
-ACH Payments (USA)
+**ACH Payments (USA)**
 OBADA DAO, LLC
 Account Number: 466014318733
 Routing Number (electronic) 011000138
@@ -38,7 +38,7 @@ Bank of America, NA
 222 Broadway
 New York, New York 10038
 
-Wire Payments (International)
+**Wire Payments (International)**
 OBADA DAO, LLC
 Account Number: 466014318733
 Routing Number (wires) 026009593
