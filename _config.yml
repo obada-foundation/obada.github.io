@@ -1,12 +1,12 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "neon"
-masthead_title: "Open Blockchain for Asset Disposition Architecture"
+masthead_title: "OBADA DAO"
 layout: splash
-title: OBADA
-description: The Open Blockchain for Asset Disposition Architecture
+title: OBADA DAO
+description: An ITAD Industry Coalition
 url: "https://www.obada.io/"
 logo: "/assets/logo/obada-logo-light-gradient.svg"
 has_toc: false
 search_enabled: false
-footer_content: "Open Blockchain for Asset Disposition Architecture (OBADA)"
+footer_content: "OBADA DAO"
 plugins: ['jekyll-include-cache']
