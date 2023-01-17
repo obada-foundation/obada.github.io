@@ -20,7 +20,7 @@ OBADA is an industry coalition made up of stakeholders in the IT asset dispositi
 * [Past Meeting Minutes](https://www.obadafoundation.org/meetings/) - Foundation and DAO
 * [Join the DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/) - Companies in the asset disposition sector only.
 * [DAO Membership Application](https://www.obadafoundation.org/dao/membership-application/) - Please complete this if your company is on the waitlist.
-* [Explore the ITAD Blockchain](TBD)   coming VERY soon
+* Explore the ITAD Blockchain - very soon
 * **[Frequently Asked Questions](https://www.obadafoundation.org/marketing/faq)**
 
 ## The OBADA DAO
@@ -41,15 +41,15 @@ The utility is a decentralized registry to store the pNFTs data, with standard m
 This utility will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recycler. and it creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
 
 * [Github Source Code Repo](https://github.com/obada-foundation/)
-* [Reference Design / Demo Site](TBD)
+* Reference Design / Demo Site - very soon
 * [Blockchain Explorer](http://explorer.alpha.obada.io)
 
 
  ## Why join the DAO
 Besides a seat at the table in the future of our industry, the main benefits of joining the DAO are governance rights, operational rights, and economic rights.
-* [Read More](TBD) - see below.
-* [Read the Waitlist Announcement](TBD) - Needs to be put on a webpage
-*  **[Join the DAO](tbd)**
+* Read More - See below (or needs a separate webpage).
+* Read the Waitlist Announcement - Needs a webpage
+* [Join the DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/)
   
 
 <hr>
