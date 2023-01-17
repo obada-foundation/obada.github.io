@@ -21,13 +21,13 @@ OBADA is an industry coalition made up of stakeholders in the IT asset dispositi
 * [Join the DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/) - Companies in the asset disposition sector only.
 * [DAO Membership Application](https://www.obadafoundation.org/dao/membership-application/) - Please complete this if your company is on the waitlist.
 * Explore the ITAD Blockchain - very soon
-* **[Frequently Asked Questions](https://www.obadafoundation.org/marketing/faq)**
+* **[Frequently Asked Questions](https://www.obadafoundation.org/faq)**
 
 ## The OBADA DAO
 
 The OBADA DAO (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. There are currently 25 DAO Members and we are processing a waitlist of 59 more.   The DAO is capped at 101 members.   Please see this links below.
 * [DAO Discussion Forum](https://forum.obada.io/)
-* [DAO Operating Agreement](https://www.dropbox.com/s/17hgdbl4e5mkuvw/OBADA%20DAO%2C%20LLC%20Operating%20Agreement%20%281.3.2022%29%20-%20Final%20-%20Used%20in%20Round%20A.pdf?dl=0)
+* [DAO Operating Agreement](https://www.obadafoundation.org/dao/documents/dao-operating-agreement/)
 * [DAO Member List](https://www.obadafoundation.org/dao/members/)
 * [DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/)
 
@@ -42,7 +42,7 @@ This utility will allow enterprise and supply chain systems to track the service
 
 * [Github Source Code Repo](https://github.com/obada-foundation/)
 * Reference Design / Demo Site - very soon
-* [Blockchain Explorer](http://explorer.alpha.obada.io)
+* [Blockchain Explorer] - coming soon
 
 
  ## Why join the DAO
@@ -62,6 +62,8 @@ Besides obtaining a "seat at the table" shaping in the future of our industry, t
 The intent is this will become a high-level explainer.
 And /or a "why join the DAO" page.
 * For facts or operational information visit the [the documentation site](https://www.obadafoundation.org/).
+
+<hr>
 
 <div class="blocks-3">
 
