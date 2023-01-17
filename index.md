@@ -10,9 +10,9 @@ hidden: true
 
 ## Welcome to OBADA
 
-OBADA is an industry coalition made up of stakeholders in the IT asset disposition (ITAD) industry that has gotten together to creating a public utility to allow anyone to create a "Carfax™" for their physical assets.  This will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recyclerm and it creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
+OBADA is an industry coalition made up of stakeholders in the IT asset disposition (ITAD) industry.  We have gotten together to creat a public utility that will allow any enterprise or supply chain systems to digitally represent their physical assets as NFTs (pNFTs), in effect creating a decentralized "Carfax™" for physical assets.   This allows for permanent, interoperable recordkeeping of any asset, from manufacturer the recycler.   And it gives the world a standard interface for ordering and tracking end-of-life services such as data destruction and recycling.
 
-"OBADA" consist of two organizations; the nonprofit OBADA Foundation and the OBADA DAO.  The foundation is working with the International Standards Organization (ISO) to develop an open standard for creating and storing digital representions of physical assets in a blockchain.   The OBADA DAO is a decentralized autonomous organization that is creating a decentralized registry where these Carfax-like digital representations can be stored.
+"OBADA" consist of two organizations; the nonprofit OBADA Foundation and the OBADA DAO.  The foundation is working with the International Standards Organization (ISO) to develop a standard for creating and storing digital representions of physical assets in a blockchain.   The OBADA DAO is a decentralized autonomous organization developing decentralized registry based on the standard to store the Carfax-like digital representations (i.e. the pNFTs).
 
 ## Quick Links
 * [OBADA Documents Site](https://www.obadafoundation.org) - Information repo for the foundation and DAO
@@ -25,7 +25,7 @@ OBADA is an industry coalition made up of stakeholders in the IT asset dispositi
 
 ## The OBADA DAO
 
-The OBADA DAO (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. THere are currently 25 DAO Members and we are processing a waitlist of 59 more.   The DAO is capped at 101 members.   Please see this links below.
+The OBADA DAO (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. There are currently 25 DAO Members and we are processing a waitlist of 59 more.   The DAO is capped at 101 members.   Please see this links below.
 * [DAO Discussion Forum](https://forum.obada.io/)
 * [DAO Operating Agreement](https://www.dropbox.com/s/17hgdbl4e5mkuvw/OBADA%20DAO%2C%20LLC%20Operating%20Agreement%20%281.3.2022%29%20-%20Final%20-%20Used%20in%20Round%20A.pdf?dl=0)
 * [DAO Member List](https://www.obadafoundation.org/dao/members/)
@@ -46,7 +46,8 @@ This utility will allow enterprise and supply chain systems to track the service
 
 
  ## Why join the DAO
-Besides a seat at the table in the future of our industry, the main benefits of joining the DAO are governance rights, operational rights, and economic rights.
+ 
+Besides obtaining a "seat at the table" shaping in the future of our industry, there are three main reaons to join the DAO: governance rights, operational rights, and economic rights.
 * Read More - See below (or needs a separate webpage).
 * Read the Waitlist Announcement - Needs a webpage
 * [Join the DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/)
