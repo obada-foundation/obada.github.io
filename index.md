@@ -4,60 +4,63 @@ layout: splash
 hidden: true
 ---
 
-
-<p><br></p>
-
 <div class="block-warning">
     <p><img src="/assets/svg/construction-worker.svg" alt="" width="60" height="60"><em>This website is a work in progress, built by volunteers.  If you'd like to improve it, please volunteer to help!</em></p>
 </div>
 
-<p><br></p>
-## Welcome to the OBADA DAO website
+## Welcome to OBADA
+
 OBADA is an industry coalition made up of stakeholders in the IT asset disposition (ITAD) industry that has gotten together to creating a public utility to allow anyone to create a "Carfax™" for their physical assets.  This will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recyclerm and it creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
 
 "OBADA" consist of two organizations; the nonprofit OBADA Foundation and the OBADA DAO.  The foundation is working with the International Standards Organization (ISO) to develop an open standard for creating and storing digital representions of physical assets in a blockchain.   The OBADA DAO is a decentralized autonomous organization that is creating a decentralized registry where these Carfax-like digital representations can be stored.
 
-## The OBADA DAO: A Decentralized Autonomous Organization run by an ITAD Industry Coalition
+## Quick Links
+* [OBADA Documents Site](https://www.obadafoundation.org) - Information repo for the foundation and DAO
+* [OBADA Meeting Calendar](https://www.obadafoundation.org/calendar) - Foundation and DAO
+* [Past Meeting Minutes](https://www.obadafoundation.org/meetings/) - Foundation and DAO
+* [Join the DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/) - Companies in the asset disposition sector only.
+* [DAO Membership Application](https://www.obadafoundation.org/dao/membership-application/) - Please complete this if your company is on the waitlist.
+* [Explore the ITAD Blockchain](TBD)   coming VERY soon
+* **[Frequently Asked Questions](https://www.obadafoundation.org/marketing/faq)**
 
-The OBADA DAO (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry.  
+## The OBADA DAO
+
+The OBADA DAO (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. THere are currently 25 DAO Members and we are processing a waitlist of 59 more.   The DAO is capped at 101 members.   Please see this links below.
 * [DAO Discussion Forum](https://forum.obada.io/)
+* [DAO Operating Agreement](https://www.dropbox.com/s/17hgdbl4e5mkuvw/OBADA%20DAO%2C%20LLC%20Operating%20Agreement%20%281.3.2022%29%20-%20Final%20-%20Used%20in%20Round%20A.pdf?dl=0)
 * [DAO Member List](https://www.obadafoundation.org/dao/members/)
 * [DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/)
 
+## The OBADA Foundation
+[The OBADA Foundation](https://www.obadafoundation.org/about), a 501(c)(3) nonprofit, is developing an [an open standard](https://www.obada.io/standard/) called "Representing Physical Assets using Non-Fungible Tokens (NFTs)" in conjunction with the International Standards Organization [ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html).  This open blockchain protocol will allow any organization or ecosystem to establish their own NFT implementation for their own category of physical assets which will be interoperable across all categories.
 
-## The Product:  A Decentralized Registry to Store these "Carfaxes" of Physical Assets
-The OBADA DAO is creating a public utility to allow anyone to create a "Carfax™" for their physical assets.  
-This will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recycler. and it creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
+## The ITAD Blockchain
+The OBADA DAO is creating a public utility, loosely called "the ITAD Blockchain", based on the physical NFT (pNFT) standard.
+The utility is a decentralized registry to store the pNFTs data, with standard methods for connecting to the backend systems of the actors and software used by the asset disposition sector.    The registry acts as a "bridge" between the real-world asset and it's digital representation which can be embedded in a ERC-721 or any other form of NFT.
 
-This decentralized "Carfax" is a digital representation of physical asset, a type of non-fungible token (NFT) called a physical NFT (pNFT).  The DAO is creating a decentralized registry to store these pNFTs.
-* [Github Source Code Repo](https://www.obadafoundation.org/tech-resources/github.html](https://github.com/obada-foundation/)
-* [Reference Design / Demo Site](https://dev.rd.obada.io)
+This utility will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recycler. and it creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
+
+* [Github Source Code Repo](https://github.com/obada-foundation/)
+* [Reference Design / Demo Site](TBD)
 * [Blockchain Explorer](http://explorer.alpha.obada.io)
 
-## Based on an Open Standard for Representing Physical Assets as Non-Fungible Tokens (NFTs).
-This decentralized registry is being built according to [an open standard](https://www.obada.io/standard/) being developed
- by [the OBADA Foundation](https://www.obadafoundation.org/about), a 501(c)(3) nonprofit, and the International Standards Organization [ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html) as a standard called "Representing physical assets using non-fungible tokens (NFTs)."
- 
-## Why ITADs and other companies in the sector join the DAO
-The DAO is limited to 100 Seats, for companies in the IT Asset Disposition Sector Only.  There is a one time membership fee of $5000 which is being used to fund development of the blockchain and operations of the foundation.
+
+ ## Why join the DAO
 Besides a seat at the table in the future of our industry, the main benefits of joining the DAO are governance rights, operational rights, and economic rights.
-* [Read the Waitlist Announcement](TBD)
-* [DAO Operating Agreement](https://www.obadafoundation.org/dao/dao-operating-agreement/)
+* [Read More](TBD) - see below.
+* [Read the Waitlist Announcement](TBD) - Needs to be put on a webpage
 *  **[Join the DAO](tbd)**
-*  
-## Quick Links
-* **[Frequently Asked Questions](https://www.obadafoundation.org/marketing/faq)**
-	* Are a good writer?  Please help us improve these.
-* [OBADA Meeting Calendar](https://www.obadafoundation.org/calendar)
-* [Past Meeting Minutes](https://www.obadafoundation.org/meetings/)
-* [DAO Membership Application](tbd)
-* [Join the DAO Waitlist](tbd)
+  
 
 <hr>
+<hr>
+<hr>
 
-## The rest of this page is in progress - intent is to become a high-level explainer
-* Did we mention we are looking for help?
-* Facts and operational information can be found on the [OBADA Foundation Documentation Site](https://www.obadafoundation.org/).
+## The rest of this page is a work in progress
+
+The intent is this will become a high-level explainer.
+And /or a "why join the DAO" page.
+* For facts or operational information visit the [the documentation site](https://www.obadafoundation.org/).
 
 <div class="blocks-3">
 
