@@ -12,6 +12,10 @@ hidden: true
 </div>
 
 <p><br></p>
+## Welcome to the OBADA DAO website
+OBADA is an industry coalition made up of stakeholders in the IT asset disposition (ITAD) industry that has gotten together to creating a public utility to allow anyone to create a "Carfax™" for their physical assets.  This will allow enterprise and supply chain systems to track the service history of any asset, from manufacturer the recyclerm and it creates a simple, standard interface for the world to order and track asset disposition services such as data destruction and responsible recycling.
+
+"OBADA" consist of two organizations; the nonprofit OBADA Foundation and the OBADA DAO.  The foundation is working with the International Standards Organization (ISO) to develop an open standard for creating and storing digital representions of physical assets in a blockchain.   The OBADA DAO is a decentralized autonomous organization that is creating a decentralized registry where these Carfax-like digital representations can be stored.
 
 ## The OBADA DAO: A Decentralized Autonomous Organization run by an ITAD Industry Coalition
 
