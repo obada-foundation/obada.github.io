@@ -45,7 +45,7 @@ This utility will allow enterprise and supply chain systems to track the service
 * [Blockchain Explorer] - coming soon
 
 
- ## Why join the DAO
+## Why join the DAO
  
 Besides obtaining a "seat at the table" shaping in the future of our industry, there are three main reaons to join the DAO: governance rights, operational rights, and economic rights.
 * Read More - See below (or needs a separate webpage).
