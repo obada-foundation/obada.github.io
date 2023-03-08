@@ -4,20 +4,20 @@ layout: splash
 hidden: true
 ---
 
-<p><br></p>
+<!-- <p><br></p>
 <div class="block-warning">
     <p><img src="/assets/svg/construction-worker.svg" alt="" width="50" height="50"><em>This website is a work in progress, built by volunteers.  If you'd like to improve it, please volunteer to help!</em></p>
-</div>
+</div> -->
 
-## Welcome to OBADA
+## OBADA: The ITAD Blockchain
 
-OBADA is an industry coalition made up of stakeholders in the IT asset disposition (ITAD) industry.  We have gotten together to creat a public utility that will allow any enterprise or supply chain systems to digitally represent their physical assets as NFTs (pNFTs), in effect creating a decentralized "Carfax™" for physical assets.   This allows for permanent, interoperable recordkeeping of any asset, from manufacturer the recycler.   And it gives the world a standard interface for ordering and tracking end-of-life services such as data destruction and recycling.
+OBADA is an industry coalition of stakeholders in the IT asset disposition (ITAD) industry.  We are working to create a public utility allowing any enterprise or supply chain system to digitally represent physical assets as NFTs (pNFTs), in effect creating a decentralized "Carfax™" for physical assets. This allows for permanent, interoperable recordkeeping of any asset, from manufacturer to recycler, and it gives the world a standard interface for ordering and tracking end-of-life services such as data destruction and recycling.
 
 <div style="max-width: 700px; margin: 30px auto;">
 <iframe width="500" height="300" src="https://www.youtube.com/embed/sewEwNsA0YQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-"OBADA" consist of two organizations; the nonprofit OBADA Foundation and the OBADA DAO.  The foundation is working with the International Standards Organization (ISO) to develop a standard for creating and storing digital representions of physical assets in a blockchain.   The OBADA DAO is a decentralized autonomous organization developing decentralized registry based on the standard to store the Carfax-like digital representations (i.e. the pNFTs).
+"OBADA" consists of two organizations; the nonprofit OBADA Foundation and the OBADA DAO.  The foundation is working with the International Standards Organization (ISO) to develop a standard for creating and storing digital representions of physical assets in a blockchain.   The OBADA DAO is a decentralized autonomous organization developing decentralized registry based on the standard to store the Carfax-like digital representations (i.e. the pNFTs).
 
 <hr style="margin-top: 40px;">
 
@@ -64,10 +64,10 @@ Besides obtaining a "seat at the table" shaping in the future of our industry, t
 
 <hr style="margin-top: 40px;">
 
-## The rest of this page is a work in progress
+<!-- ## The rest of this page is a work in progress
 
 The intent is this will become a high-level explainer.
-And /or a "why join the DAO" page.
+And /or a "why join the DAO" page. --> 
 * For facts or operational information visit the [the documentation site](https://www.obadafoundation.org/).
 
 <hr>
