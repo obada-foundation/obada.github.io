@@ -65,14 +65,6 @@ a {
   background: $primary-color;
 }
 
-.navicon {
-  &,
-  &::before,
-  &::after {
-    background: #ffffff;
-  }
-}
-
 .main-content {
   a {
     white-space: normal;
@@ -103,6 +95,12 @@ a {
 
   a {
     color: #ffffff;
+    
+    &:hover,
+    &:active,
+    &:focus {
+      color: #a0cbf2;
+    }
 
     &.site-title {
       max-width: 200px;
@@ -142,6 +140,28 @@ a {
   &::before {
     background-color: rgba(0,0,0,0.7);
   }
+
+  &:hover {
+    .navicon {
+      &,
+      &::before,
+      &::after {
+        background: #a0cbf2;
+      }
+    }
+  }
+
+  .navicon {
+    &,
+    &::before,
+    &::after {
+      background: #ffffff;
+    }
+  }
+}
+
+.close .navicon {
+  background: transparent;
 }
 
 .site-logo {
