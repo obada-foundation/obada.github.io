@@ -4,15 +4,22 @@ layout: splash
 hidden: true
 ---
 
+<p><br></p>
 <div class="block-warning">
-    <p><img src="/assets/svg/construction-worker.svg" alt="" width="60" height="60"><em>This website is a work in progress, built by volunteers.  If you'd like to improve it, please volunteer to help!</em></p>
+    <p><img src="/assets/svg/construction-worker.svg" alt="" width="50" height="50"><em>This website is a work in progress, built by volunteers.  If you'd like to improve it, please volunteer to help!</em></p>
 </div>
 
 ## Welcome to OBADA
 
 OBADA is an industry coalition made up of stakeholders in the IT asset disposition (ITAD) industry.  We have gotten together to creat a public utility that will allow any enterprise or supply chain systems to digitally represent their physical assets as NFTs (pNFTs), in effect creating a decentralized "Carfax™" for physical assets.   This allows for permanent, interoperable recordkeeping of any asset, from manufacturer the recycler.   And it gives the world a standard interface for ordering and tracking end-of-life services such as data destruction and recycling.
 
+<div style="max-width: 700px; margin: 30px auto;">
+<iframe width="500" height="300" src="https://www.youtube.com/embed/sewEwNsA0YQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 "OBADA" consist of two organizations; the nonprofit OBADA Foundation and the OBADA DAO.  The foundation is working with the International Standards Organization (ISO) to develop a standard for creating and storing digital representions of physical assets in a blockchain.   The OBADA DAO is a decentralized autonomous organization developing decentralized registry based on the standard to store the Carfax-like digital representations (i.e. the pNFTs).
+
+<hr style="margin-top: 40px;">
 
 ## Quick Links
 * [OBADA Documents Site](https://www.obadafoundation.org) - Information repo for the foundation and DAO
@@ -22,6 +29,8 @@ OBADA is an industry coalition made up of stakeholders in the IT asset dispositi
 * [DAO Membership Application](https://www.obadafoundation.org/dao/membership-application/) - Please complete this if your company is on the waitlist.
 * Explore the ITAD Blockchain - very soon
 * **[Frequently Asked Questions](https://www.obadafoundation.org/faq)**
+
+<hr style="margin-top: 40px;">
 
 ## The OBADA DAO
 
@@ -53,9 +62,7 @@ Besides obtaining a "seat at the table" shaping in the future of our industry, t
 * [Join the DAO Waitlist](https://www.obadafoundation.org/dao/waitlist/)
   
 
-<hr>
-<hr>
-<hr>
+<hr style="margin-top: 40px;">
 
 ## The rest of this page is a work in progress
 
@@ -91,6 +98,8 @@ And /or a "why join the DAO" page.
 
 <p><br></p>
 
+---------
+
 
 ## An Industry Coalition
 
@@ -101,6 +110,8 @@ And /or a "why join the DAO" page.
 
 
 <p> <br> </p>
+
+---------
 
 
 ## OBADA is for
@@ -136,6 +147,8 @@ And /or a "why join the DAO" page.
 
 <p> <br> </p>
 
+---------
+
 
 ## OBADA Governance
 <div class="blocks-2">
@@ -152,6 +165,8 @@ And /or a "why join the DAO" page.
 
 <p><br></p>
 
+---------
+
     
 ## The <span>OBADA</span> Standard
 The OBADA Foundation is steward of the OBADA standard. We have been working with ISO since 2019 to develop it as an international standard.
@@ -159,6 +174,8 @@ The standard consists of an open data methods for representing an immutable phys
 
 
 <p><br></p>
+
+---------
 
 
 ## The <span>OBADA</span> Platform
@@ -173,6 +190,8 @@ The standard consists of an open data methods for representing an immutable phys
 
 
 <p><br></p>
+
+---------
 
 
 ## FUTURE:  Platform Economics: Rewards for Recycling
@@ -192,6 +211,8 @@ The standard consists of an open data methods for representing an immutable phys
 
 
 <p><br></p>
+
+---------
 
 
 ### LEGAL

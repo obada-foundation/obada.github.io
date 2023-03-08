@@ -1,11 +1,11 @@
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "default"
 masthead_title: "OBADA DAO"
 layout: splash
 title: OBADA DAO
 description: An ITAD Industry Coalition
 url: "https://www.obada.io/"
-logo: "/assets/logo/obada-logo-light-gradient.svg"
+logo: "/assets/logo/obada-logo-light.svg"
 has_toc: false
 search_enabled: false
 footer_content: "OBADA DAO"
