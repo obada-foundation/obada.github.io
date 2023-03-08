@@ -32,10 +32,8 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  //color: $secondary-text-color;
-
   span {
-    color: $primary-color;
+    color: #3d85c6;
   }
 
   & + .block {
@@ -65,6 +63,14 @@ a {
 
 .masthead {
   background: $primary-color;
+}
+
+.navicon {
+  &,
+  &::before,
+  &::after {
+    background: #ffffff;
+  }
 }
 
 .main-content {
@@ -123,6 +129,18 @@ a {
         //color: $primary-color;
       }
     }
+  }
+
+  .hidden-links {
+    a {
+      color: #3d4144;
+    }
+  }
+}
+
+.greedy-nav__toggle {
+  &::before {
+    background-color: rgba(0,0,0,0.7);
   }
 }
 
