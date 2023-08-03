@@ -37,7 +37,6 @@ OBADA is an industry coalition of stakeholders in the IT asset disposition (ITAD
 The OBADA DAO (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. There are currently 32 DAO Members and we are accepting new Members. Note, the DAO is capped at 101 membership seats. Don't miss out, join today!  Please see this links below.
 * [Read More About the DAO](https://www.obadafoundation.org/dao/)
 * [DAO Member List](https://www.obadafoundation.org/dao/members/)
-* [DAO Forum](https://forum.obada.io/)
 * [DAO Operating Agreement](https://www.obadafoundation.org/dao/documents/dao-operating-agreement/)
 
 
