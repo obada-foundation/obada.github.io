@@ -21,27 +21,26 @@ OBADA is an industry coalition of stakeholders in the IT asset disposition (ITAD
 
 <hr style="margin-top: 40px;">
 
+
+<!-- Quick links not useful here. 
 ## Quick Links
-* [OBADA Documents Site](https://www.obadafoundation.org) - Information repo for the foundation and DAO
+* [OBADA Foundation Home](https://www.obadafoundation.org) - Information repo for the foundation and DAO
 * [OBADA Meeting Calendar](https://www.obadafoundation.org/calendar) - Foundation and DAO
 * [Past Meeting Minutes](https://www.obadafoundation.org/meetings/) - Foundation and DAO
-* [Join the DAO](https://www.obadafoundation.org/dao/) - Companies in the asset disposition sector only.
+* [Join the DAO](https://www.obadafoundation.org/dao/join) - Companies in the asset disposition sector only.
 * [DAO Membership Application](https://www.obadafoundation.org/dao/membership-application/) - Instructions for Incoming DAO Members
 * Explore the ITAD Blockchain - very soon
-* **[Frequently Asked Questions](https://www.obadafoundation.org/faq)**
+* **[Frequently Asked Questions](https://www.obadafoundation.org/faq)** -->
 
 <hr style="margin-top: 40px;">
 
 ## The OBADA DAO
 
-The OBADA DAO (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. There are currently 32 DAO Members and we are accepting new Members. Note, the DAO is capped at 101 membership seats. Don't miss out, join today!  Please see this links below.
-* [Read More About the DAO](https://www.obadafoundation.org/dao/)
-* [DAO Member List](https://www.obadafoundation.org/dao/members/)
-* [DAO Operating Agreement](https://www.obadafoundation.org/dao/documents/dao-operating-agreement/)
+The [OBADA DAO](https://www.obadafoundation.org/dao/) (Decentralized Autonomous Organization) is a coalition of stakeholders from the IT asset disposition (ITAD) industry. The DAO members serve as the governance for the OBADA platform, making important decisions related to the direction, and operation of our public utility. With [35 DAO Members](https://www.obadafoundation.org/dao/members/) currently, and a maxiumum of **101 voting members**, we still have seats available!  Don't miss out, [join the DAO today](https://www.obadafoundation.org/dao/join)!  
 
 
 ## The OBADA Foundation
-[The OBADA Foundation](https://www.obadafoundation.org/about), a 501(c)(3) nonprofit, is developing an [an open standard](https://www.obada.io/standard/) called "Representing Physical Assets using Non-Fungible Tokens (NFTs)" in conjunction with the International Standards Organization [ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html).  This open blockchain protocol will allow any organization or ecosystem to establish their own NFT implementation for their own category of physical assets which will be interoperable across all categories.
+[The OBADA Foundation](https://www.obadafoundation.org/), a 501(c)(3) nonprofit, is developing an an open standard called "Representing Physical Assets using Non-Fungible Tokens (NFTs)" in conjunction with the International Standards Organization [ISO TC/307 AHG3](https://www.iso.org/committee/6266604.html). This open blockchain protocol will allow any organization or ecosystem to establish their own NFT implementation for their own category of physical assets which will be interoperable across all categories.
 
 ## The ITAD Blockchain
 The OBADA DAO is creating a public utility, loosely called "the ITAD Blockchain", based on the physical NFT (pNFT) standard.
@@ -57,8 +56,7 @@ This utility will allow enterprise and supply chain systems to track the service
 ## Why join the DAO
  
 Besides obtaining a "seat at the table" shaping in the future of our industry, there are three main reaons to join the DAO: governance rights, operational rights, and economic rights.
-<!-- * Read More - See below (or needs a separate webpage)-->
-<!-- * Why Join the DAO? - Needs Webpage -->
+* [Why Join the DAO?](https://www.obadafoundation.org/dao/join)
 * [Contact Adam for More Info](mailto:adam@obada.io)
   
 
