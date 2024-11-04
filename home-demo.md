@@ -1,8 +1,16 @@
-# Ensuring Traceable, Responsible Reuse for Secondary Electronics
+---
+title: NFTs for Physical Assets
+layout: splash
+hidden: true
+nav_exclude: true
+---
+
+
+## Ensuring Traceable, Responsible Reuse for Secondary Electronics
 
 OBADA is setting the standard for secure traceability in the ITAD industry by enabling Digital Product Passports (DPPs) for all reused, refurbished, and recycled electronics. Watch our demo to see how OBADA’s blockchain-powered solution makes asset tracking simple, transparent, and compliant with ISO standards.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NHYf5NHNor4?si=k6OpQ8QMbWikLmwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="750" height="421" src="https://www.youtube.com/embed/NHYf5NHNor4?si=k6OpQ8QMbWikLmwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
