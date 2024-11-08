@@ -11,6 +11,18 @@ OBADA enables secure traceability for reused, refurbished, and recycled electron
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NHYf5NHNor4?si=k6OpQ8QMbWikLmwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+---------
+
+## OBADA: An Industry Coalition
+
+<div class="block block-text-image">
+    <h3 class="block-text-image__image image-title">Built for ITAD<br><span>IT Asset Disposition</span></h3>
+    <p class="block-text-image__text">Founded in 2017, OBADA is a coalition of ITAD industry stakeholders representing over 100 organizations focused on end-of-life electronics. The OBADA DAO governs the development of the ITAD Blockchain, a decentralized registry that securely links physical assets to their digital records using tokenization. The OBADA Foundation, a 501(c)(3) nonprofit, collaborates with ISO to develop an open standard for cryptographic proof of proper data destruction and responsible recycling, ensuring interoperability and sustainability across global supply chains.</p>
+</div>
+
+
+<p> <br> </p>
+
 ---
 
 ## **What We Do**
@@ -20,7 +32,7 @@ OBADA enables secure traceability for reused, refurbished, and recycled electron
 <div class="block">
 <img src="/assets/svg/devices.svg" class="block__image" alt="" width="80" height="80">
 <h3>Real-World Assets</h3>
-<p>We create unique cryptographic addresses (pNFTs) for physical assets, based on their serial numbers, linking them to permanent, traceable records.</p>
+<p>We create unique cryptographic addresses for physical assets, based on their serial numbers, linking them to permanent, traceable digital records.</p>
 </div>
 
 <div class="block">
@@ -32,7 +44,7 @@ OBADA enables secure traceability for reused, refurbished, and recycled electron
 <div class="block">
 <img src="/assets/svg/nft.svg" class="block__image" alt="" width="80" height="80">
 <h3>Cross-System Integration</h3>
-<p>Organizations can integrate pNFTs into any supply chain or blockchain system, ensuring end-to-end traceability for their assets.</p>
+<p>Organizations can integrate tokenized assets into any supply chain or blockchain system, ensuring end-to-end traceability for their assets.</p>
 </div>
 
 </div>
@@ -97,7 +109,7 @@ OBADA enables secure traceability for reused, refurbished, and recycled electron
 
 ## **Built for Transparency and Trust**
 
-OBADA is creating an open standard for representing physical assets as NFTs (pNFTs), enabling decentralized, secure recordkeeping for the ITAD industry. By integrating blockchain technology, we ensure every asset's history is traceable, fostering trust and sustainability.
+OBADA is creating an open standard for representing physical assets through tokenization, enabling decentralized, secure recordkeeping for the ITAD industry. By integrating blockchain technology, we ensure every asset's history is traceable, fostering trust and sustainability.
 
 ---
 
