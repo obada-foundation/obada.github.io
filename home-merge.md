@@ -17,7 +17,7 @@ Watch our demo to see how OBADA’s system tracks the journey of deinstalled sol
 
 ---------
 
-## OBADA: An Industry Coalition
+## An Industry Coalition
 
 <div class="block block-text-image">
     <h3 class="block-text-image__image image-title">Built for ITAD<br><span>IT Asset Disposition</span></h3>
