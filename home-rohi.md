@@ -10,7 +10,7 @@ layout: splash
 </div>
 
 **Making Traceability Simple**  
-Digital Product Passports (DPPs) simplify compliance, tracking, and sustainability for reused, refurbished, and recycled electronics.  
+OBADA enables secure traceability for reused, refurbished, and recycled electronics with Digital Product Passports (DPPs). Our blockchain-powered platform simplifies compliance, tracking, and sustainability, helping shape the future of ITAD with transparency and accountability.
 
 [Learn More](#obada-an-industry-coalition)
 
