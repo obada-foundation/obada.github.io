@@ -61,35 +61,37 @@ OBADA enables secure traceability for reused, refurbished, and recycled electron
 
 ---
 
-## **Who We Serve**
+## Who We Serve
 
-<div class="blocks-4">
-
-<div class="block">
-<img src="/assets/svg/recycle.svg" class="block__image" alt="" width="80" height="80">
-<h3>ITAD Providers</h3>
-<p>Streamline asset tracking, data destruction, and recycling with traceable records.</p>
-</div>
+<div class="blocks-2">
 
 <div class="block">
-<img src="/assets/svg/supply-chain.svg" class="block__image" alt="" width="80" height="80">
-<h3>Supply Chains</h3>
-<p>Connect previously siloed systems to achieve traceability from manufacture to recycling.</p>
+    <img src="/assets/svg/recycle.svg" class="block__image" alt="Recycle Icon" width="80" height="80">
+    <h3>ITAD Providers</h3>
+    <p>Streamline asset tracking, data destruction, and recycling with traceable records.</p>
 </div>
 
 <div class="block">
-<img src="/assets/svg/blockchain.svg" class="block__image" alt="" width="80" height="80">
-<h3>Regulatory Authorities</h3>
-<p>Monitor sustainability efforts and compliance with immutable blockchain records.</p>
+    <img src="/assets/svg/supply-chain.svg" class="block__image" alt="Supply Chain Icon" width="80" height="80">
+    <h3>Supply Chains</h3>
+    <p>Connect previously siloed systems to achieve traceability from manufacture to recycling.</p>
 </div>
 
 <div class="block">
-<img src="/assets/svg/globe.svg" class="block__image" alt="" width="80" height="80">
-<h3>The Planet</h3>
-<p>Promote responsible recycling, recover critical materials, and reduce e-waste.</p>
+    <img src="/assets/svg/blockchain.svg" class="block__image" alt="Blockchain Icon" width="80" height="80">
+    <h3>Regulatory Authorities</h3>
+    <p>Monitor sustainability efforts and compliance with immutable blockchain records.</p>
+</div>
+
+<div class="block">
+    <img src="/assets/svg/globe.svg" class="block__image" alt="Globe Icon" width="80" height="80">
+    <h3>The Planet</h3>
+    <p>Promote responsible recycling, recover critical materials, and reduce e-waste.</p>
 </div>
 
 </div>
+
+
 
 ---
 
