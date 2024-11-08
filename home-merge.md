@@ -1,11 +1,15 @@
 ---
 title: Traceable Reuse for Secondary Electronics
 layout: splash
+hidden: true
 ---
 
 ## **OBADA: Setting the Standard for Traceability in ITAD**
 
 OBADA enables secure traceability for reused, refurbished, and recycled electronics through **Digital Product Passports (DPPs)**. Our blockchain-powered platform simplifies tracking, compliance, and sustainability for the ITAD industry. Discover how OBADA is shaping the future of electronics management.
+
+**See OBADA in action:**  
+Watch our demo to see how OBADA’s system tracks the journey of deinstalled solar panels from the U.S. to their reuse in Ghana. This real-world example demonstrates how blockchain-powered Digital Product Passports ensure transparency, traceability, and compliance for asset reuse.
 
 <div style="max-width: 700px; margin: 30px auto;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NHYf5NHNor4?si=k6OpQ8QMbWikLmwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -13,7 +17,7 @@ OBADA enables secure traceability for reused, refurbished, and recycled electron
 
 ---------
 
-## An Industry Coalition
+## OBADA: An Industry Coalition
 
 <div class="block block-text-image">
     <h3 class="block-text-image__image image-title">Built for ITAD<br><span>IT Asset Disposition</span></h3>
