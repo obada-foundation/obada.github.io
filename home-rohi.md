@@ -5,7 +5,7 @@ layout: splash
 
 ## **OBADA: Revolutionizing ITAD with Blockchain-Powered Traceability**
 
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="max-width: 700px; margin: 30px auto;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NHYf5NHNor4?si=k6OpQ8QMbWikLmwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
