@@ -13,7 +13,7 @@ OBADA enables secure traceability for reused, refurbished, and recycled electron
 
 ---------
 
-## OBADA: An Industry Coalition
+## An Industry Coalition
 
 <div class="block block-text-image">
     <h3 class="block-text-image__image image-title">Built for ITAD<br><span>IT Asset Disposition</span></h3>
