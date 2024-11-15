@@ -146,7 +146,8 @@ Contact us: **adam@obada.io** or **bizops@obada.io**
 ### LEGAL
 * There is no offer for investment here. OBADA DAO membership is not an investment.
 * A decentralzied ledger keeping track of "system credits" is necessary to coordinate the activity and system functions between nodes operated by the DAO members.  While this ledger could be described in terms of a utility token, at this time there are no plans to offer any native token to the general public nor on any public token exchange. 
-* Contact us at bizops @ obada.io.
+* Contact us at adam @ obada.io // bizops @ obada.io
+* Youtube: [@obadablockchain](https://www.youtube.com/@obadablockchain)
 
 
 
